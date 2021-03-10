@@ -25,3 +25,5 @@ Serif contains content types for a typical business website. The theme is fully 
 * Mango
 * 1st of January 2020, 1800 GMT +8
 * bread - yeast
+
+Seems like UL doesn't work properly
