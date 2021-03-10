@@ -1,11 +1,17 @@
 ---
-title: "Superannuation"
+title: Superannuation
 date: Jan 2020
 featured: true
 weight: 5
 layout: service
----
+front-matter:
+  date: Jan 2020
+  title: Superannuation
+  layout: service
+  weight: 5
+  featured: true
 
+---
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.

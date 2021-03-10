@@ -1,11 +1,17 @@
 ---
-title: "Business Sales"
+title: Business Sales
 date: Jan 2020
 featured: true
 weight: 3
 layout: service
----
+front-matter:
+  date: Jan 2020
+  title: Business Sales
+  layout: service
+  weight: 3
+  featured: true
 
+---
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato

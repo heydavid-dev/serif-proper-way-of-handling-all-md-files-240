@@ -1,11 +1,17 @@
 ---
-title: "Mergers"
+title: Mergers
 date: Jan 2020
 featured: true
 weight: 4
 layout: service
----
+front-matter:
+  date: Jan 2020
+  title: Mergers
+  layout: service
+  weight: 4
+  featured: true
 
+---
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
